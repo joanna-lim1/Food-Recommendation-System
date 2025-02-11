@@ -69,8 +69,5 @@ Enter your choice:
 
 ## Author
 Joanna Lim  
-GitHub: [github.com/joanna-lim1](https://github.com/joanna-lim1)  
-LinkedIn: [linkedin.com/in/joanna-lim-4793112a6](https://linkedin.com/in/joanna-lim-4793112a6)  
-
-Happy Coding and Enjoy Your Food Recommendations.
+Happy Coding and Enjoy Your Food Recommendations!!
 
